@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PushNotificationsHandlingApp</string>
+    <string name="ok">OK</string>
+    <string name="notification_rationale">Notifications permission needed for core functionality</string>
+</resources>
